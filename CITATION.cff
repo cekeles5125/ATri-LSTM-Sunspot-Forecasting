@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software or accompanying materials, please cite the associated manuscript and this repository."
+title: "ATri-LSTM for Sunspot Number Forecasting"
+type: software
+authors:
+  - family-names: "Keles"
+    given-names: "Cemal"
+  - family-names: "Baran"
+    given-names: "Burhan"
+  - family-names: "Alagoz"
+    given-names: "Baris Baykant"
+  - family-names: "Alisoy"
+    given-names: "Hafiz"
+date-released: 2026-09-03
+license: MIT
+abstract: >-
+  MATLAB implementation and supporting materials for recursive multi-step
+  forecasting performance evaluation and 10-year future sunspot number
+  projections using the Additive Triple Long Short-Term Memory (ATri-LSTM)
+  architecture. The repository includes a 10-run historical test-set
+  forecasting experiment and a 40-run future-projection experiment.
+keywords:
+  - ATri-LSTM
+  - LSTM
+  - sunspot number
+  - solar activity
+  - space weather
+  - time-series forecasting
+  - recursive forecasting
+  - MATLAB
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Keles"
+      given-names: "Cemal"
+    - family-names: "Baran"
+      given-names: "Burhan"
+    - family-names: "Alagoz"
+      given-names: "Baris Baykant"
+    - family-names: "Alisoy"
+      given-names: "Hafiz"
+  title: "Sunspot Number Forecasting by Using Additive Triple LSTM Architecture for Capturing Multi-Temporal Dynamics"
+  journal: "Space Weather"
+  year: 2026
+  notes: "Manuscript under review"
