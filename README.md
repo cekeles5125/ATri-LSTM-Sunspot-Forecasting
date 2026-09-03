@@ -51,8 +51,6 @@ Users should cite the original SILSO data source as appropriate.
 
 ## 1. Forecast Performance on Test Dataset
 
-Folder: `forecast performance on test dataset`
-
 This experiment evaluates recursive multi-step forecasting using an
 independent historical test dataset.
 
@@ -99,8 +97,6 @@ performance metrics, and calculates aggregated performance across the
 model realizations.
 
 ## 2. Future Projections for ATri-LSTM
-
-Folder: `future projections for ATri-LSTM`
 
 This experiment generates long-term recursive projections using the
 proposed ATri-LSTM.
