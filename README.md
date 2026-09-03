@@ -23,14 +23,12 @@ additive fusion.
 
 ``` text
 ATri-LSTM-Sunspot-Forecasting/
-├── forecast performance on test dataset/
-│   ├── ForecastPerformancesOnTestDataset.m
-│   ├── ReadData_ForecastPerformancesOnTestDataset.m
-│   └── SN_ms_tot_V2.0.xlsx
-├── future projections for ATri-LSTM/
-│   ├── FutureProjections.m
-│   ├── ReadData_FutureProjections.m
-│   └── SN_ms_tot_V2.0.xlsx
+│
+├── ForecastPerformancesOnTestDataset.m
+├── ReadData_ForecastPerformancesOnTestDataset.m
+├── FutureProjections.m
+├── ReadData_FutureProjections.m
+├── SN_ms_tot_V2.0.xlsx
 ├── README.md
 ├── LICENSE
 └── CITATION.cff
