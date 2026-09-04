@@ -200,6 +200,10 @@ Repository citation metadata are provided in `CITATION.cff`. A DOI can
 be added after archiving a release in a DOI-issuing repository such as
 Zenodo.
 
+Project:
+This work was supported by the Inonu University Scientific Research 
+Projects Coordination Unit (Project No. FBA-2026-4594)
+
 ## License
 
 Source code is released under the **MIT License**. See `LICENSE`.
