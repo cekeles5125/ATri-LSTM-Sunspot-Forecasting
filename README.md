@@ -26,7 +26,7 @@ ATri-LSTM-Sunspot-Forecasting/
 │
 ├── ForecastPerformancesOnTestDataset.m
 ├── ReadData_ForecastPerformancesOnTestDataset.m
-├── FutureProjections.m
+├── FutureProjections_ver2.m
 ├── ReadData_FutureProjections.m
 ├── SN_ms_tot_V2.0.xlsx
 ├── README.md
@@ -122,7 +122,7 @@ Accordingly, variability among these projections represents **inter-run
 model variability** and is not a calibrated probabilistic prediction
 interval.
 
-### `FutureProjections.m`
+### `FutureProjections_ver2.m`
 
 This script loads the historical sequence, calculates normalization
 parameters, constructs and trains ATri-LSTM, and generates a 132-months
