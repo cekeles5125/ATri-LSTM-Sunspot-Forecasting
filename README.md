@@ -125,7 +125,7 @@ interval.
 ### `FutureProjections.m`
 
 This script loads the historical sequence, calculates normalization
-parameters, constructs and trains ATri-LSTM, and generates a 120-month
+parameters, constructs and trains ATri-LSTM, and generates a 132-months
 recursive future projection.
 
 The experiment is independently executed 40 times. Outputs may be stored
