@@ -101,7 +101,7 @@ XTest = dataTestStandardized(1:end-1)';   % gelen hatayı yazdığımda internet
 % Test kümesinin ilk verisi oldu
 % Gelecek yıl tahminleri
 %numTimeStepsTest = numel(XTest);
-numTimeStepsTest=120;
+numTimeStepsTest=132;
 for i = 2:numTimeStepsTest
     [net,YPred(i)] = predictAndUpdateState(net,YPred(i-1),'ExecutionEnvironment','cpu');
 end
